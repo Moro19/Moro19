@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    <tr> 
     <td width="30%" valign="top"></td><td valign="middle">Andrey Sumin</br>Java с нуля до Junior + </td></tr>
     <tr><td width="30%" valign="top"></td><td valign="middle">Ольга Назина</br>Автоматизация тестов для REST API при помощи Postman</td>
-    <tr><td width="30%" valign="top"><img src="https://github.com/Moro19/Moro19/blob/main/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования</td></tr>
+    <tr><td width="30%" valign="top"><img src="https://github.com/Moro19/Moro19/blob/main/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования</td></tr>
    </tr>
   </table>
   </br>
