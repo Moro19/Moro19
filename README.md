@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="top"></td><td valign="middle">Andrey Sumin</br>Java с нуля до Junior + </td></tr>
-    <tr><td width="30%" valign="top"></td><td valign="middle">Ольга Назина</br>Автоматизация тестов для REST API при помощи Postman</td>
+    <td width="30%" valign="top"><img src="https://github.com/Moro19/Moro19/blob/main/icons/Java.png">
+       <a href ="https://www.udemy.com/course/java_sumin/" target="_blank">Andrey Sumin</a></td><td valign="middle">Java с нуля до Junior + </td></tr>
+    <tr><td width="30%" valign="top"><img src="https://github.com/Moro19/Moro19/blob/main/icons/postman.svg"></td><td valign="middle" <a href ="https://www.software-testing.ru/edu/3-online/315-rest-api-postman" target="_blank">Ольга Назина</br>Автоматизация тестов для REST API при помощи Postman</td>
     <tr><td width="30%" valign="top"><img src="https://github.com/Moro19/Moro19/blob/main/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования</td></tr>
    </tr>
   </table>
