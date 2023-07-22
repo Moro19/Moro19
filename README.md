@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="top"><img src="https://github.com/Moro19/Moro19/blob/main/icons/Java.png"></td>
-       <td<a href ="https://www.udemy.com/course/java_sumin/" target="_blank">Andrey Sumin</a></td><td valign="middle">Java с нуля до Junior + </td></tr>
-    <tr><td width="30%" valign="top"><img src="https://github.com/Moro19/Moro19/blob/main/icons/postman.svg" width="70" height="70"></td>
-       <td valign="middle" <a href ="https://www.software-testing.ru/edu/3-online/315-rest-api-postman" target="_blank">Ольга Назина</a></td></br><td valign="middle">Автоматизация тестов для REST API при помощи Postman</td>
-    <tr><td width="30%" valign="top"><img src="https://github.com/Moro19/Moro19/blob/main/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования</td></tr>
+    <td width="30%" valign="top"><img src="/icons/Java.png"></td><td valign="middle">Andrey Sumin</td></br>
+       <a target="_blank" href ="https://www.udemy.com/course/java_sumin/">Java с нуля до Junior +</a>. </td></tr>  
+   
+    <tr><td width="30%" valign="top"><img src="/icons/postman.svg" width="60" height="60"></td>
+       <td valign="middle">Ольга Назина</td></br> <a target="_blank" href ="https://www.software-testing.ru/edu/3-online/315-rest-api-postman" >Автоматизация тестов для REST API при помощи Postman</a>. </td></tr>
+       
+    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
   </br>
