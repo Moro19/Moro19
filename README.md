@@ -59,7 +59,7 @@ Below are my graduation projects implemented as part of the course.
 
 
 ## Testing a mobile application
-:link: Test project: </br></br>
+:link: Test project: https://github.com/Moro19/Diplom_Mobile</br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
 :heavy_check_mark: Реализованы автотесты мобильного приложения (в процессе) на эмуляторе мобильного устройства.</br></br>
 :triangular_flag_on_post: Что особенного:
