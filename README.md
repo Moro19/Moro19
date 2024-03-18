@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 ## Тестирование REST API
-:link: Тестовый проект: Скоро будет ссылка на тестовый проект</br></br>
+:link: Тестовый проект:(https://github.com/Moro19/Diplom_Api)</br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
 :heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на (скоро появится сайт).</br></br>
 :triangular_flag_on_post: Что особенного:
