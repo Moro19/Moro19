@@ -1,7 +1,7 @@
 ### Hi there 👋
-Меня зовут Николай. С октября 2021 года я - инженер по тестированию программного обеспечения.</br>
+My name is Nikolai. Since October 2021, I have been a software testing engineer.</br>
 
-:small_blue_diamond:  _Курсы освоенные мной_
+:small_blue_diamond:  _ Courses mastered by me_
 
 <!--
 **Moro19/Moro19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,13 +28,13 @@ Here are some ideas to get you started:
   </table>
   </br>
   
-:small_blue_diamond:  _Зачем эта страничка_  
-В настоящее время я учусь в школе автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
-Здесь будет представлен мой дипломный проект, состоящий из проектов, реализованных в рамках курса.
+:small_blue_diamond:  _Why this page?_  
+I am currently studying at the school of test automation <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
+Below are my graduation projects implemented as part of the course.
 </br></br>
 
-## Тестирование UI
-:link: Тестовый проект:https://github.com/Moro19/Diplom_UI</br></br>
+## Testing UI
+:link: Test project: https://github.com/Moro19/Diplom_UI</br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 :heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы (в процессе реализации).</br></br>
 :triangular_flag_on_post: Что особенного:
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 - [x] Задачи на дефекты
 
 
-## Тестирование REST API
-:link: Тестовый проект:https://github.com/Moro19/Diplom_Api</br></br>
+## Testing REST API
+:link: Test project: https://github.com/Moro19/Diplom_Api</br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
 :heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на (скоро появится сайт).</br></br>
 :triangular_flag_on_post: Что особенного:
@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 - [x] Шаблоны форматирования логов запросов
 
 
-## Тестирование мобильного приложения
-:link: Тестовый проект: Скоро будет ссылка на тестовый проект</br></br>
+## Testing a mobile application
+:link: Test project: </br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
 :heavy_check_mark: Реализованы автотесты мобильного приложения (в процессе) на эмуляторе мобильного устройства.</br></br>
 :triangular_flag_on_post: Что особенного:
